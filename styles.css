@@ -1,0 +1,33 @@
+h3 {
+    text-align: center;
+    padding: 10px;
+}
+
+table {
+    margin: 0 auto;
+}
+
+thead {
+    border:black;
+    background-color: #292b2c;
+    margin: 2px;
+    color: white;
+}
+
+.single:hover {
+    background-color: green;
+    color: white;
+}
+
+.attached:hover {
+    background-color: lightcoral;
+    color: white;
+}
+
+.tall:hover {
+    font-size: 30px;
+}
+
+.short:hover {
+    font-size: 10px;
+}
